@@ -1,4 +1,4 @@
-package com.moonlightgamestg.mysterydetective;
+package com.example.alexander.detective_mistery;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
